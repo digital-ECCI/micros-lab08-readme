@@ -1,15 +1,16 @@
 # Actividad evaluativa 2
 
+
 ## Integrantes
-
-
-## Nombre del proyecto: 
 
 
 ## Documentación
 
 
 ## Diagramas
+
+
+## Evidencias:
 
 
 ## Conclusiones
